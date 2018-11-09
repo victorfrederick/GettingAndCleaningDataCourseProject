@@ -1,9 +1,9 @@
-This Code book indicates all the variables and summaries calculated, along with units, and any other relevant information for the "tidy" data.
+# This Code book indicates all the variables and summaries calculated, along with units, and any other relevant information for the "tidy" data.
 
-#Identifiers
+## Identifiers
 Subject and Activity
 
-#Activity includes:
+## Activity includes:
 
 WALKING
 WALKING_UPSTAIRS
@@ -12,7 +12,7 @@ SITTING
 STANDING
 LAYING
 
-#Measurements
+## Measurements
 The measurements are classified in two domains:
 
 Time-domain signals (prefix t), from the accelerometer and gyroscope signals:
